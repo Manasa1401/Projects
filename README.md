@@ -1,17 +1,11 @@
 # Quiz Application  
 
 A basic quiz application featuring:  
-
-## Five Questions  
-Test your knowledge with a short set of questions.  
-
-## Timer Functionality  
-Answer each question within the allotted time to keep the quiz engaging.  
-
-## User-Friendly Interface  
-Designed for a smooth and intuitive user experience.  
-
-## Features  
+-**Five questions:** Test your knowledge with short set of questions  
+- **Timer Functionality:** Answer each question with the alloted time to keep the Quiz engaging   
+**User-Friendly Interface :** Designed for a smooth and intuitive user experience. 
+ 
+  ## Features  
 - Multiple-choice questions.  
 - Countdown timer for each question to enhance the challenge.  
 - Instant feedback after each question or at the end of the quiz (optional).  

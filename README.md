@@ -20,6 +20,6 @@ A basic quiz application featuring:
    git clone https://github.com/your-username/quiz-application.git
 
 2.Open index.html in any web browser.
-3.Start the quiz and enjoy!
+- 3.Start the quiz and enjoy!
 
 Feel free to fork, enhance, and customize the application as needed! 😊
